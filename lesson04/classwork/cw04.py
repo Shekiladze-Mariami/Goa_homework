@@ -1,7 +1,26 @@
-apple = "🍏"
+name = "mariami"
+print("mariami")
 
-print(apple)
+nam = 20
+print(nam)
 
-my_name = "mariami"
+#forward()
 
-print(my_name)
+nam1 = 15,9
+print(nam1)
+
+print("GOA BEST")
+print(10)
+#მონაცემთა ტიპი data type
+#string - str -  აღნიშნავს ბრჭყალებში მოქცეულ ტექსტს
+#integer - int - აღნიშნავს მთელ რიცხვს 
+#float - float - ათწილადი რიცხვი
+
+#konkatination - კონკატიანაცია - სტრინგების შეერთება
+
+surname = "shekiladze"
+
+#print(num1 + num2)
+#print(num1 - num2)
+#print(num1 / num2)
+#print(num1 * num2)

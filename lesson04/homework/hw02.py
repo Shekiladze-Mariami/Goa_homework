@@ -1,0 +1,3 @@
+name=("mariami")
+
+print(name)
